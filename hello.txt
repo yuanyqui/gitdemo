@@ -1,5 +1,5 @@
 hello git!  first test
-hello git!
+hello git!  second test
 hello git!
 hello git!
 hello git!
